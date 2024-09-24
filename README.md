@@ -1,2 +1,2 @@
-# game-detona-ralph
-Jogo do "Detona Ralph" criado em conjunto com a plataforma da DIO.me
+Game do Detona Ralph
+Jogo criado em conjunto com a plataforma da DIO.me, desenvolvido com as tecnologias HTML5, CSS3 e JavaScript.
